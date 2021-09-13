@@ -1,0 +1,4 @@
+.dconatiner{
+    display: flex;
+    justify-content: space-between;
+}
